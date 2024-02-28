@@ -15,7 +15,7 @@
   <img align="center" alt="Agda-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" />
   <img align="center" alt="Agda-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
   <img align="center" alt="Agda-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Agda-js" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://play-lh.googleusercontent.com/BaPQwHryyFBlxlFRhZdyTVFN77-KivMmcOano34lTpoB91fLcsvPu_pXH6gxEsRSxoM=s94)" />
+  <img align="center" alt="Agda-js" height="30" width="40" src="https://w7.pngwing.com/pngs/925/552/png-transparent-odoo-enterprise-resource-planning-computer-software-logo-customer-relationship-management-odoo-purple-violet-text.png" />
 
 
 
