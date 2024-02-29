@@ -8,7 +8,7 @@
 </h1>
 
 
-<div style="display: flex; justify-content: center;">
+<div align="center"">
   <a href="https://github.com/agdaLopes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agdaLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agdaLopes&layout=compact&langs_count=16&theme=dracula"/>
