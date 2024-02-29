@@ -1,37 +1,9 @@
 ### Hi there 👋
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    padding: 50px;
-  }
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Pedro+Muniz!" />
+</h1>
 
-  .typing-animation {
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .15em;
-    animation: typing 3s steps(40, end),
-               blink-caret .75s step-end infinite;
-  }
-
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange }
-  }
-</style>
-</head>
-<body>
-  <h1>
-    <span class="typing-animation">Hello, I am Agda</span>
-  </h1>
 
 <div>
   <a href="https://github.com/agdaLopes">
