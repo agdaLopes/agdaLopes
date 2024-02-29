@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center;">
-    <a href="https://git.io/typing-svg"><img style="border-radius: 50%;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=34ABDC&random=false&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Agda+Lopes+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
-</div>
+
 
 
 <div style="display: flex; justify-content: center;">
