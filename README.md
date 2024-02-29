@@ -1,10 +1,7 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e8-1f1fb.png" alt="Cape Verde flag" width="26px" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=8E74AE&random=false&width=500&lines=<strong>Hi+There!</strong>+;I'm+Agda+Lopes+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;a+software+engineer+from+Cape+Verde+" alt="Typing SVG" />
 </a>
-Hi There! 👋 I'm Agda Lopes 👩💻 a software engineer from Cape Verde 🇨🇻
-<a href="https://git.io/typing-svg">
-  <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e8-1f1fb.png" alt="Cape Verde flag" width="26px" />
-</a>
+
 
 
 
