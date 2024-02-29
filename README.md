@@ -1,11 +1,6 @@
 <div id="header" align="center">
-  <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="100"/>
+  <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="300"/>
 </div>
-
-<div id="header" style="display: flex; justify-content: center;">
-    <img style="border-radius: 50%;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 
 
 <h1 align="center">
