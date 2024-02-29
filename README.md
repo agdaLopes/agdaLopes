@@ -2,6 +2,15 @@
     <img style="border-radius: 50%;" src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" alt="GIF animado" />
 </div>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="header" style="display: flex; justify-content: center;">
+    <img style="border-radius: 50%;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 
 <div style="display: flex; justify-content: center;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=34ABDC&random=false&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Agda+Lopes+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
