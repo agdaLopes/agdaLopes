@@ -2,9 +2,12 @@
     <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif"/>
 </div>
 
-<a text-align:center href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=34ABDC&random=false&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Agda+Lopes+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<div style="display: flex; justify-content: center;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=34ABDC&random=false&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Agda+Lopes+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
 
-<div>
+
+<div style="display: flex; justify-content: center;">
   <a href="https://github.com/agdaLopes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agdaLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agdaLopes&layout=compact&langs_count=16&theme=dracula"/>
@@ -13,7 +16,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; justify-content: center;"><br>
   <img  align="center" alt="Agda-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Agda-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Agda-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -26,7 +29,7 @@
 
 ##
 
-<div> 
+<div style="display: flex; justify-content: center;"> 
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatolopesagdalopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
