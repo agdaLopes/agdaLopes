@@ -1,15 +1,11 @@
 <div id="header" align="center">
   <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="150"/>
 </div>
-<div id="header" align="center">
-  <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="150" style="border-radius: 50%;"/>
-</div>
 
-
-
-<div style="border-radius: 50%; overflow: hidden;" align="center">
+<div style="border-radius: 50%; overflow: hidden; display: inline-block;" align="center">
   <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="150" />
 </div>
+
 
 
 
