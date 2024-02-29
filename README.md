@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D41E2&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Agda+Lopes+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;a+software+engineer+from+Cape+Verde" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8D41E2&center=true&vCenter=true&random=false&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Agda+Lopes+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;a+software+engineer+from+Cape+Verde" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://github.com/agdaLopes">
