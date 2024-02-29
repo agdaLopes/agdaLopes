@@ -7,6 +7,7 @@ Hi There! 👋 I'm Agda Lopes 👩💻 a software engineer from Cape Verde 🇨�
 </a>
 
 
+
 <div>
   <a href="https://github.com/agdaLopes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agdaLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
