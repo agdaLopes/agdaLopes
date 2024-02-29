@@ -1,4 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=34ABDC&random=false&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Agda+Lopes+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<div align="center">
+    <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif"/>
+</div>
+
+<a text-align:center href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=34ABDC&random=false&width=500&lines=Hi+There!+%F0%9F%91%8B;I'm+Agda+Lopes+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <div>
   <a href="https://github.com/agdaLopes">
@@ -6,13 +10,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agdaLopes&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
-
-<div align="center">
-    <img src="https://gifdb.com/images/high/nerd-ginger-cat-typing-8308pf65yrgevcln.gif" width="600" height="300"/>
-</div>
-
-
-
 
 ##
 
