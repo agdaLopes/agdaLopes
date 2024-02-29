@@ -7,7 +7,11 @@
   </a>
 </div>
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div align="center">
+    <img src="https://gifdb.com/images/high/nerd-ginger-cat-typing-8308pf65yrgevcln.gif" width="600" height="300"/>
+</div>
+
+
 
 
 ##
