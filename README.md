@@ -8,6 +8,7 @@
 
 <div align="center">
 - 🔭 I’m currently working on ...
+  <br>
 - 🌱 I’m currently learning ...
 </div>
 
