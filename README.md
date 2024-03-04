@@ -6,8 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=DE6487&center=true&vCenter=true&random=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Agda+Lopes!%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
-
-
+<div align="center">
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+</div>
 
 <div align="center"">
   <a href="https://github.com/agdaLopes">
@@ -38,7 +40,9 @@
   <a href="https://www.linkedin.com/in/agda-lopes-188154248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<!--
 ![Snake animation](https://github.com/agdaLopes/agdaLopes/blob/output/github-contribution-grid-snake.svg)
+-->
 
 
 <!--
