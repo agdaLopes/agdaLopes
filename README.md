@@ -7,12 +7,14 @@
 </h1>
 
 <div align="center">
-- 🔭 I’m currently working on ...
+- 🔭 I am currently working with the odoo framework!
+  
   <br>
-- 🌱 I’m currently learning ...
+  
+- 🌱 I'm currently learning Web Scraping!
 </div>
 
-<div align="center"">
+<div align="center" style=margin-top: 20px;">
   <a href="https://github.com/agdaLopes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agdaLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agdaLopes&layout=compact&langs_count=16&theme=dracula"/>
