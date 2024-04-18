@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=agdaLopes.agdaLopes" />
 
-<div id="header" align="center" width=400px>
+<div id="header" align="center" width=4000px>
   <img src="https://1.bp.blogspot.com/-JoBGJ5Oky18/XQkrEua4gYI/AAAAAAAATUQ/fHET-Jfgul0gFU7_XamNRhqEckR5xFa7ACLcBGAs/s1600/neural.gif" width="150"/>
 </div>
 
