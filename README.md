@@ -12,8 +12,8 @@
 <div align="center">
   <p>- 🔭 I’m currently working on odoo framework</p>
   <p>- 🌱 I’m currently learning Artificial Intelligence </p>
-  <p>- 😄 Pronouns: she/her</p>
   <p>- 📫 How to reach me: lopesagdalopes@gmail.com</p>
+  <p>- 😄 Pronouns: she/her</p>
   <p>- ⚡ Fun fact: I like Harry Potter🪄</p>
 </div>
 
