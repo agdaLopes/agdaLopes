@@ -10,11 +10,11 @@
 
 
 <div align="center">
-- 🔭 I am currently working with the odoo framework!
-  
-  <br>
-  
-- 🌱 I'm currently learning Web Scraping!
+  <p>- 🔭 I’m currently working on odoo framework</p>
+  <p>- 🌱 I’m currently learning Artificial Intelligence </p>
+  <p>- 😄 Pronouns: she/her</p>
+  <p>- 📫 How to reach me: lopesagdalopes@gmail.com</p>
+  <p>- ⚡ Fun fact: I like Harry Potter🪄</p>
 </div>
 
 <div align="center" style=margin-top: 20px;">
