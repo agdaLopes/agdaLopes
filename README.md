@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=agdaLopes.agdaLopes" />
 
-<div id="header" align="center">
+<div id="header" align="center" width=400px>
   <img src="https://1.bp.blogspot.com/-JoBGJ5Oky18/XQkrEua4gYI/AAAAAAAATUQ/fHET-Jfgul0gFU7_XamNRhqEckR5xFa7ACLcBGAs/s1600/neural.gif" width="150"/>
 </div>
 
@@ -8,9 +8,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&pause=1000&color=DE6487&center=true&vCenter=true&random=true&width=435&lines=Hey+There!+%F0%9F%91%8B;I'm+Agda+Lopes!%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://1.bp.blogspot.com/-JoBGJ5Oky18/XQkrEua4gYI/AAAAAAAATUQ/fHET-Jfgul0gFU7_XamNRhqEckR5xFa7ACLcBGAs/s1600/neural.gif" width="150"/>
-</div>
 
 <div align="center">
 - 🔭 I am currently working with the odoo framework!
