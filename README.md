@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=agdaLopes.agdaLopes" />
+
 <div id="header" align="center">
-  <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="150"/>
+  <img src="https://1.bp.blogspot.com/-JoBGJ5Oky18/XQkrEua4gYI/AAAAAAAATUQ/fHET-Jfgul0gFU7_XamNRhqEckR5xFa7ACLcBGAs/s1600/neural.gif" width="150"/>
 </div>
 
 <h1 align="center">
